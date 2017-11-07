@@ -1,7 +1,7 @@
 Package.describe({
     name: 'copypants:dropbox-oauth',
     summary: "Login service for dropbox accounts",
-    version: '1.4.1',
+    version: '1.4.2',
     git: 'https://github.com/Copypants/meteor-dropbox-oauth'
 });
 
